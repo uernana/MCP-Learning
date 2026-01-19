@@ -76,6 +76,7 @@ The assistant can answer weather-related questions by **dynamically calling MCP 
 ├── mcp_gradio_app.py           # Gradio + MCP client
 ├── .env             # OpenAI API key
 ├── pyproject.toml   # uv / Python dependencies
+├── assets   # uv / Python dependencies
 └── README.md
 ```
 
