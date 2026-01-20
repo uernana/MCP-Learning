@@ -76,7 +76,7 @@ Create a `.env` file in the project root:
 
 ```env
 PIPECONE_API_KEY=your_pinecone_api_key
-PIPECONE_INDEX=rag-hf-index
+PIPECONE_INDEX=your_index_name
 
 RAG_MIN_SIMILARITY=0.5
 RAG_TOP_K=3
